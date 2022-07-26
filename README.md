@@ -9,7 +9,7 @@ Using:
 - hash to json
 - json parse
 
-To start run in console: ./r.rb
+To start run in console: ./t.rb
 
 Type commands: 
 - new : create an animal
