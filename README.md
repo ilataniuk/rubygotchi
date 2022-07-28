@@ -15,5 +15,5 @@ Type commands:
 - ```eat```  go eating 
 - ```run```  go runnig
 - ```sleep``` go to sleep 
-- ```kill``` destroy you animal
+- ```kill``` destroy your animal
 - ```quit``` exit from app 
